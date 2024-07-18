@@ -13,7 +13,6 @@ Heart disease remains a leading cause of mortality worldwide, prompting the need
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Heart disease, also known as cardiovascular disease, remains a significant health concern globally. Early detection and timely intervention are critical for improving patient outcomes. This project aims to develop predictive models using machine learning techniques to identify individuals at risk of heart disease.
